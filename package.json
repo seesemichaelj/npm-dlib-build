@@ -1,21 +1,21 @@
 {
-  "name": "dlib-build",
-  "version": "0.1.1",
+  "name": "dlib-build-cuda",
+  "version": "0.2.0",
   "description": "A simple script to auto build dlib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justadudewhohacks/npm-dlib-build"
+    "url": "git+https://github.com/seesemichaelj/npm-dlib-build-cuda"
   },
   "bugs": {
-    "url": "https://github.com/justadudewhohacks/npm-dlib-build/issues"
+    "url": "https://github.com/seesemichaelj/npm-dlib-build-cuda/issues"
   },
-  "homepage": "https://github.com/justadudewhohacks/npm-dlib-build#readme",
+  "homepage": "https://github.com/seesemichaelj/npm-dlib-build-cuda#readme",
   "main": "index.js",
   "scripts": {
     "install": "node ./install.js",
     "test": "node ./test/check-build.js"
   },
   "keywords": [],
-  "author": "justadudewhohacks",
+  "author": "seesemichaelj",
   "license": "ISC"
 }
